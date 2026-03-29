@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.kbcrt.words" version="1.4.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>高考斩词酱</name>
-    <description>以互动的方式快速背完3500考纲</description>
+    <name>二轮斩词酱</name>
+    <description>以互动的方式快速背完二轮1500单词</description>
     <author email="microkbcrt2@outlook.com">
         kbcrt
     </author>

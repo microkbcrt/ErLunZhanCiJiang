@@ -5,8 +5,6 @@ name: Build Cordova Android (Debug)
 on:
   # 1. 当有代码推送到 main 分支时
   push:
-    branches:
-      - main
   # 2. 允许你在 Actions 页面手动点击按钮来运行
   workflow_dispatch:
 

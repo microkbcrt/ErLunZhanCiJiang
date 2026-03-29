@@ -1,8 +1,8 @@
 {
   "name": "com.kbcrt.words",
-  "displayName": "高考斩词酱",
+  "displayName": "二轮斩词酱",
   "version": "1.0.0",
-  "description": "一个为高考设计的单词卡片APP。",
+  "description": "一个为二轮背单词设计的单词卡片APP。",
   "main": "index.js",
   "scripts": {
     "android": "cordova run android",
